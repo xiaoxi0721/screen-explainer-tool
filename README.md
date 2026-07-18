@@ -12,7 +12,8 @@
 
 ## 效果截图
 
-![[Pasted image 20260718171307.png]]
+<img width="692" height="533" alt="image" src="https://github.com/user-attachments/assets/cb63f1be-aba1-4ed4-b9a6-ed808b2ecea2" />
+
 
 
 
